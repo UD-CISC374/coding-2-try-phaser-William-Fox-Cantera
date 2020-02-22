@@ -64,7 +64,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/spritesheets/ship3.png"
   },
   {
-    "revision": "d22ec190fe6f6383c83bd58956c4097b",
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "favicon.ico"
+  },
+  {
+    "revision": "f3b1ff567a0c4b624e7965e2068a8ff5",
+    "url": "icons/icons-192.png"
+  },
+  {
+    "revision": "940dadf1b7379fa02e546441b85f487a",
+    "url": "icons/icons-512.png"
+  },
+  {
+    "revision": "a86aef20dd42c434fbab92060bb5aef6",
     "url": "index.html"
   },
   {
@@ -72,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "main.0df9930fe7c85a320e3e.bundle.js"
   },
   {
-    "revision": "b4321e6f6a88a978d4964c0d1b432b03",
+    "revision": "59bbe9abd4e0dc9e720461300f545959",
     "url": "manifest.json"
   },
   {
