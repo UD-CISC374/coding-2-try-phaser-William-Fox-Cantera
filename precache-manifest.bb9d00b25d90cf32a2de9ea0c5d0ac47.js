@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/audio/beam.mp3"
   },
   {
-    "revision": "9e59cd5013019ffca2a7c9927a7d6c56",
+    "revision": "026204118fd4deb6f16e49dd4a97d0b0",
     "url": "assets/citations.md"
   },
   {
@@ -22,6 +22,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9fd0dcea47820063efe7dabd12e32b87",
     "url": "assets/images/background.png"
+  },
+  {
+    "revision": "19471e42e5adbd32b8da76724716d5dd",
+    "url": "assets/images/ground.png"
+  },
+  {
+    "revision": "6c09d4324040be92f6f65c37a707fa7e",
+    "url": "assets/images/hell.png"
   },
   {
     "revision": "ccd0f68c9dc7cd68ea1e98bf43aa7c90",
@@ -76,12 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "icons/icons-512.png"
   },
   {
-    "revision": "a86aef20dd42c434fbab92060bb5aef6",
+    "revision": "221e76933764d9c36688d08ea25b39c9",
     "url": "index.html"
   },
   {
-    "revision": "6f8d5d0787aab929f958",
-    "url": "main.0df9930fe7c85a320e3e.bundle.js"
+    "revision": "4dbc88a17d7349caab08",
+    "url": "main.b072daa55a3d837b828e.bundle.js"
   },
   {
     "revision": "59bbe9abd4e0dc9e720461300f545959",
