@@ -8,7 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/audio/beam.mp3"
   },
   {
-    "revision": "d8144334ed4fd108bc0aeeb0c27bfbf9",
+    "revision": "1c3dbe4c944283e726426c2c796e1908",
+    "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/audio/victory.mp3"
+  },
+  {
+    "revision": "f88c9ead4234b6c37f7818526e05b0ca",
     "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/citations.md"
   },
   {
@@ -20,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/font/font.xml"
   },
   {
-    "revision": "9fd0dcea47820063efe7dabd12e32b87",
-    "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/images/background.png"
+    "revision": "80566ae7b4f97d2040f7b12083db4d26",
+    "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/images/fireCity.png"
   },
   {
     "revision": "19471e42e5adbd32b8da76724716d5dd",
@@ -38,18 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ce0cdc71df639d7bedb2ff1b2873a72",
     "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/images/laser.png"
-  },
-  {
-    "revision": "ccd0f68c9dc7cd68ea1e98bf43aa7c90",
-    "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/images/ship.png"
-  },
-  {
-    "revision": "ea0ad2cda5a9dbbe332fd61e4c2f5700",
-    "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/images/ship2.png"
-  },
-  {
-    "revision": "5896d72a8a287a6e5f3272bfb9eadca8",
-    "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaassets/images/ship3.png"
   },
   {
     "revision": "6be3462bcaa4a183b678800bb66d176c",
@@ -84,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-William-Fox-Cantera/alphafavicon.ico"
   },
   {
-    "revision": "b53d74a44c90984fc23e",
-    "url": "/coding-2-try-phaser-William-Fox-Cantera/alphagen.main.e1c25b294b8397f1e187.bundle.js"
+    "revision": "729363ceb48698f133ba",
+    "url": "/coding-2-try-phaser-William-Fox-Cantera/alphagen.main.7cd2aba1274250bb987c.bundle.js"
   },
   {
     "revision": "7e3abc0967d71642756e",
@@ -100,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaicons/icons-512.png"
   },
   {
-    "revision": "18d034abd64bd2df830542e487796539",
+    "revision": "68ab000acb25ad993fcc49df11ecafae",
     "url": "/coding-2-try-phaser-William-Fox-Cantera/alphaindex.html"
   },
   {
