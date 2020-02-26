@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-William-Fox-Cantera/finalfavicon.ico"
   },
   {
-    "revision": "1d34568238249af9a4b2",
-    "url": "/coding-2-try-phaser-William-Fox-Cantera/finalgen.main.c12fbe8221a61da874d4.bundle.js"
+    "revision": "bdb7acef215170d87c51",
+    "url": "/coding-2-try-phaser-William-Fox-Cantera/finalgen.main.37a200462ea17ee52663.bundle.js"
   },
   {
     "revision": "7e3abc0967d71642756e",
@@ -100,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coding-2-try-phaser-William-Fox-Cantera/finalicons/icons-512.png"
   },
   {
-    "revision": "f4451335a7b59af36cb89974c0ea581f",
+    "revision": "d76f81dd1bd616a2ae1645fcb0799801",
     "url": "/coding-2-try-phaser-William-Fox-Cantera/finalindex.html"
   },
   {

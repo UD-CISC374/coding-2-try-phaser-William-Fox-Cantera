@@ -1,4 +1,4 @@
-importScripts("/coding-2-try-phaser-William-Fox-Cantera/finalprecache-manifest.edc9b1c4a446a94f4f685fb9aa0d0324.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/coding-2-try-phaser-William-Fox-Cantera/finalprecache-manifest.34695ebf2c7ab684fb2700c7188c30a2.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 /**
  * You should only modify this, if you know what you are doing.
